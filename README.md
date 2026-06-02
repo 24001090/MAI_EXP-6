@@ -26,8 +26,8 @@ Step 4:
 ## Program:
 ```
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: KIRUTHIKA N
-RegisterNumber: 212224230127
+Developed by: POOJA PRIYA B
+RegisterNumber: 212224230196
 '''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
